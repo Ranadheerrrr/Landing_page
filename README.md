@@ -1,3 +1,3 @@
 # TXON_01
 Landing Website design
-LINK : https://Ranadheerrrr.github.io/Landing_page/
+LINK : https://Ranadheerrrr.github.io/Txon_01/
